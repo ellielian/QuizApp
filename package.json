@@ -1,0 +1,22 @@
+{
+  "name": "quizapp",
+  "version": "1.0.0",
+  "description": "Simple quiz app in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Ellie Lian",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "6.25.0",
+    "babel-loader": "7.*",
+    "webpack": "2.7.0"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "react": "15.5.4",
+    "react-dom": "15.5.4"
+  }
+}
